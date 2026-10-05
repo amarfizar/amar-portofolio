@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555555;
+  border: 3px solid #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #6b6b6b;
+}
+
+@keyframes shiny {
+  0% {
+    background-position: 200% center;
+  }
+  100% {
+    background-position: -200% center;
+  }
+}
+
+.animate-shiny {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.06) 20%,
+    rgba(255, 255, 255, 0.15) 40%,
+    rgba(255, 255, 255, 0.25) 50%,
+    rgba(255, 255, 255, 0.15) 60%,
+    rgba(255, 255, 255, 0.06) 80%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: shiny 8s ease-in-out infinite;
+}
+
+@media (max-width: 768px) {
+  .animate-shiny {
+    animation: shiny 5s ease-in-out infinite;
+  }
+}
