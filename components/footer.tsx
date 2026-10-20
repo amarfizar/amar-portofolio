@@ -45,7 +45,7 @@ export function Footer() {
               <div>
                 <h3 className="text-xl sm:text-2xl font-semibold text-white mb-4 md:mb-6">Connect With Me</h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
-                  <a href="https://www.instagram.com/fi.zaaaar" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-xs sm:text-sm font-medium transition-colors h-9 px-4 py-2 border border-white/20 text-white/80 bg-transparent hover:bg-white/10 hover:text-white">
+                  <a href="https://www.instagram.com/amvyzz" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-xs sm:text-sm font-medium transition-colors h-9 px-4 py-2 border border-white/20 text-white/80 bg-transparent hover:bg-white/10 hover:text-white">
                     <Instagram className="w-4 h-4 sm:w-5 sm:h-5" />
                     Instagram
                   </a>
