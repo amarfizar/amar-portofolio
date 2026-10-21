@@ -68,7 +68,7 @@ export function Footer() {
         </div>
         <div className="flex justify-center pointer-events-none mt-20">
           <h1 className="text-[15vw] md:text-[15vw] lg:text-[12vw] font-black text-white/[0.04] whitespace-nowrap select-none animate-shiny">
-            Amar Fizaruddin
+            M. Amar Fizaruddin
           </h1>
         </div>
       </section>

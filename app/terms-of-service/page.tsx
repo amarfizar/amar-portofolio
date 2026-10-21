@@ -19,30 +19,30 @@ export default function TermsOfServicePage() {
           </span>
         </h1>
         <div className="prose prose-invert max-w-3xl mx-auto text-gray-300">
-          <p>Welcome to Devan Yudistira Sugiharta's Portfolio!</p>
+          <p>Welcome to Muhammad Amar Fizaruddin Portfolio!</p>
           <p>
-            These terms and conditions outline the rules and regulations for the use of Devan Yudistira Sugiharta's Website, located at <a href="https://devansugiharta.my.id" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:underline">devansugiharta.my.id</a>.
+            These terms and conditions outline the rules and regulations for the use of Muhammad Amar Fizaruddin's Website, located at <a href="https://muhammadamarfizaruddin.my.id" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:underline">muhammadamarfizaruddin.my.id</a>.
           </p>
           <p>
             By accessing this website we assume you accept these terms and conditions. Do not continue to use Devan Yudistira Sugiharta's Portfolio if you do not agree to take all of the terms and conditions stated on this page.
           </p>
           <h2 className="text-2xl font-semibold text-white mt-8 mb-4">Cookies</h2>
           <p>
-            We employ the use of cookies. By accessing Devan Yudistira Sugiharta's Portfolio, you agreed to use cookies in agreement with the Devan Yudistira Sugiharta's Privacy Policy.
+            We employ the use of cookies. By accessing Muhammad Amar Fizaruddin's Portfolio, you agreed to use cookies in agreement with the Muhammad Amar Fizaruddin's Privacy Policy.
           </p>
           <p>
             Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
           </p>
           <h2 className="text-2xl font-semibold text-white mt-8 mb-4">License</h2>
           <p>
-            Unless otherwise stated, Devan Yudistira Sugiharta and/or its licensors own the intellectual property rights for all material on Devan Yudistira Sugiharta's Portfolio. All intellectual property rights are reserved. You may access this from Devan Yudistira Sugiharta's Portfolio for your own personal use subjected to restrictions set in these terms and conditions.
+            Unless otherwise stated, Muhammad Amar Fizaruddin and/or its licensors own the intellectual property rights for all material on Muhammad Amar Fizaruddin's Portfolio. All intellectual property rights are reserved. You may access this from Muhammad Amar Fizaruddin's Portfolio for your own personal use subjected to restrictions set in these terms and conditions.
           </p>
           <p>You must not:</p>
           <ul>
-            <li>Republish material from Devan Yudistira Sugiharta's Portfolio</li>
-            <li>Sell, rent or sub-license material from Devan Yudistira Sugiharta's Portfolio</li>
-            <li>Reproduce, duplicate or copy material from Devan Yudistira Sugiharta's Portfolio</li>
-            <li>Redistribute content from Devan Yudistira Sugiharta's Portfolio</li>
+            <li>Republish material from Muhammad Amar Fizaruddin's Portfolio</li>
+            <li>Sell, rent or sub-license material from Muhammad Amar Fizaruddin's Portfolio</li>
+            <li>Reproduce, duplicate or copy material from Muhammad Amar Fizaruddin's Portfolio</li>
+            <li>Redistribute content from Muhammad Amar Fizaruddin's Portfolio</li>
           </ul>
           <p>This Agreement shall begin on the date hereof.</p>
           <h2 className="text-2xl font-semibold text-white mt-8 mb-4">Hyperlinking to our Content</h2>
