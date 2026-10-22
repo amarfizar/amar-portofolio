@@ -13,6 +13,8 @@ export const projects: Project[] = [
       "/desain/assets/pss.jpg",
       "/desain/assets/AF production.jpg",
       "/desain/assets/Konten Instagram Destinasi Wisata Malang Kolase Krem.jpg",
+      "/desain/assets/Contoh poster11.jpg",
+      "/desain/assets/Contoh poster22.jpg",
     ],
   },
   {
