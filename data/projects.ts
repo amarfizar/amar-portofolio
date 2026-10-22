@@ -15,6 +15,7 @@ export const projects: Project[] = [
       "/desain/assets/Konten Instagram Destinasi Wisata Malang Kolase Krem.jpg",
       "/desain/assets/Contoh poster 11.jpg",
       "/desain/assets/Contoh poster22.jpg",
+      "/desain/assets/Poster 3.jpg",
     ],
   },
   {
